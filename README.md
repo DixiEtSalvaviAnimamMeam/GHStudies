@@ -1,6 +1,1 @@
-# BIR
-bu bir readme dosyasıdır.
-blah...
-blah...
-bah. blah. blah.
-dosya büyüyor.
+# GH Stdies.
